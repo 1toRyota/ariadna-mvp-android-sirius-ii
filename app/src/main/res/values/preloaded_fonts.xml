@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abeezee</item>
+        <item>@font/alata</item>
+        <item>@font/alatsi</item>
+        <item>@font/alef</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/allerta</item>
+        <item>@font/andika_new_basic</item>
+        <item>@font/armata</item>
+        <item>@font/comfortaa_bold</item>
+        <item>@font/comfortaa_light</item>
+    </array>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MVP Ариадна</string>
+
+    <string name="scan">Сканировать QR</string>
+    <string name="recent_scanned">Недавние</string>
+    <string name="favourites">Избранное</string>
+    <string name="about_app">О приложении</string>
+    <string name="qr_code_scanner">Ариадна</string>
+    <string name="by_androchef_youtube_channel">Для Сириус.ИИ</string>
+    <string name="recent_scanned_results">Недавние</string>
+    <string name="delete">Удалить</string>
+    <string name="want_to_delete">Удалить?</string>
+    <string name="cancel">Отмена</string>
+    <string name="clear_all">Удалить всё</string>
+    <string name="clear_all_result">Вы уверены*</string>
+    <string name="clear">Удалить</string>
+    <string name="favourites_scanned_results">Избранное</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="we_need_permission">Приложению требуется доступ к камере телефона. Пожалуйста, перейдите в настройки и обновите разрешения приложения.
+    </string>
+    <string name="grant"></string>
+    <string name="loading">Загрузка</string>
+</resources>
